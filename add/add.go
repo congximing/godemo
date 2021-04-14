@@ -1,5 +1,5 @@
 package add
 
-func add(a,b,c int)int{
+func Goadd(a,b,c int)int{
 	return (a+b)/c
 }
